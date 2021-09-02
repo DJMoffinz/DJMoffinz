@@ -6,7 +6,7 @@ I love Game Development and mucking around with code in general, as well as read
 Currently I'm learning the Command Prompt language lol.
 
 ##### How to reach me:  
-If you need to talk to me, you can reach me through my [socials](Socials.url)!
+If you need to talk to me, you can reach me through my [socials](https://resite.link/DJMoffinz)!
 
 See you 'round!
 
