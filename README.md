@@ -1,5 +1,11 @@
-Hello, I’m @DJMoffinz, and I hope we can be friends!  
-I love game development and mucking around with code in general, and I'm currently learning the Command Prompt language lol.  
+### Hello, I’m @DJMoffinz, and I hope we can be friends!  
+##### Hobbies/Interests:  
+I love Game Development and mucking around with code in general, as well as reading, drawing, Digital Art, Stop-Motion animation, spritework, playing piano, fencing, table tennis and listening to classical music. 
+
+##### What I'm learning:  
+Currently I'm learning the Command Prompt language lol.
+
+##### How to reach me:  
 If you need to talk to me, you can reach me through my [socials](socials.html)!
 
 See you 'round!
